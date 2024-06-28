@@ -5,7 +5,7 @@ Running the Project:
 
 1- After downloading the project, first open the ProjectJupyter file with jupyter notebook and run the lines one by one starting from line 1 to line 28.
 
-2- Put the resulting similarity file in the data folder.
+2- Put the resulting "similarity" file in the data folder.
 
 3- Download Streamlit. "pip install streamlit"
 
@@ -19,7 +19,7 @@ Projenin Çalıştırılması:
 
 1- Projeyi indirdikten sonra önce jupyter notebook ile ProjeJupyter dosyasını açın ve 1. satırdan başlayarak 28. satıra kadar olan satırları tek tek çalıştırın.
 
-2- Oluşan benzerlik dosyasını data klasörüne atın.
+2- Oluşan "similarity" dosyasını data klasörüne atın.
 
 3- Streamlit indir. "pip install streamlit"
 
